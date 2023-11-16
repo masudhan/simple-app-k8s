@@ -10,7 +10,7 @@ data:
         server_name _;
 
         location / {
-            return 301 https://redirect-bucket-11.s3.ap-south-1.amazonaws.com/1554958208306.jpeg;
+            return 301 https://www.elegantthemes.com/layouts/wp-content/uploads/2018/01/simple-maintenance-mode-page.jpg;
         }
     }
 
