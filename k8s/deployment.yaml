@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: fastapi
-        image: chmadhus/simple-app:0.0.8
+        image: chmadhus/simple-app:0.0.9
         ports:
         - containerPort: 80
         env:
